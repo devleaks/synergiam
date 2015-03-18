@@ -1,0 +1,28 @@
+/*
+Template Name: SynergiaM
+Version: 1.1
+Author: pierrem
+Author URL: http://devleaks.be
+*/
+#cta2 h2 > span.sm-text-green {
+	color: rgb(63,176,141);
+}
+a.profile {
+	font-style: italic;
+}
+a[href="http://www.uclouvain.be"] {
+	color: #64686d;
+}
+.sm-blue,
+.sm-text-blue {
+  color: #4e82bd;
+}
+.sm-green,
+.sm-text-green {
+  color: #3fb08d;
+}
+.carousel-content p,
+.text-center p,
+.section-header p {
+  font-size: 18px;
+}
