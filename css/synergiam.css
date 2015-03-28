@@ -26,3 +26,8 @@ a[href="http://www.uclouvain.be"] {
 .section-header p {
   font-size: 18px;
 }
+
+#features .media-body p {
+	text-align: justify;
+    text-justify: inter-word;
+}

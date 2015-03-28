@@ -23,5 +23,17 @@ jQuery(function($) {'use strict';
 			itemSelector : "#content div.row"          
 			               // selector for all items you'll retrieve
 		});
+
+	$('#contact .container-wrapper').click(function(){
+		window.open('https://goo.gl/maps/tQRCW', 'Synergia Medical Location', '');
+		return false;
+	});
+	$('#contact .contact-form').click(function(e){
+		e.preventDefault();
+		return false;
+	});
+	
+	
 	
 });
+
